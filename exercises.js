@@ -32,6 +32,7 @@ function popCharts(){
   }
 }
 popCharts();
+
 /* 3) Dead Presidents
 Declare a variable named `presidents` and assign it to an array containing the following Presidents: Washington, Adams, Jefferson, Madison and Monroe.
  
